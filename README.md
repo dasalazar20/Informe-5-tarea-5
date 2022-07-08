@@ -26,47 +26,46 @@ Analizar los métodos de ramas, lazos, y a su vez investigar sobre el magnetismo
    
 2.1.1 Ecuaciones simultáneas en el análisis de circuitos
 
-![]()
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%209/1.jpg)
 
 2.1.2 Método de la corriente en ramas
 
-![]()
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%209/2.jpg)
 
 2.1.3 Método de la corriente en trayectorias cerradas 
 
-![]()
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%209/3.jpg)
 
 2.1.4 Método del voltaje en nodos  Una aplicación de circuito 
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%209/4.jpg)      
 
   2.2 MAGNETISMO Y ELECTROMAGNETISMO
 
 2.2.1 El campo magnético
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/1.jpg)      
 
 2.2.2 Electromagnetismo
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/2.jpg)      
 
 2.2.3 Dispositivos electromagnéticos
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/3.jpg)      
 
 2.2.4 Histéresis magnética
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/4.jpg)      
 
 2.2.5 Inducción electromagnética
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/5.jpg)      
 
 2.2.6 Aplicaciones de la inducción lectromagnética
 
-![]()      
+![](https://github.com/dasalazar20/Informe-5-tarea-5/blob/main/imagnes/Capitulo%2010/6.jpg)      
     
-  
 # 3.Explicación y Resolución de Ejercicios 
 
  Realizar los ejercicios pares del capitulo 9 y 10 del libro “Principios de Circuitos Eléctricos” de Floyd 
