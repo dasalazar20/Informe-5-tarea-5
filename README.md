@@ -208,11 +208,11 @@ de cd de salida a su pico (alcanza un máximo)?
 
 CAPITULO 7
 
-Al momento de la redacción y resolución de los ejercicios del capítulo 9 de “Principios de Circuitos Eléctricos” de Floyd 
+Al momento de la redacción y resolución de los ejercicios del capítulo 9 de “Principios de Circuitos Eléctricos” de Floyd se logro analizar y aplicar los metodos de corriente por ramas, metodo de lazos y el metodo de nodos para identificar valores desconosidos en los problemas en circuitos electricos
  
 CAPITULO 8
 
-Al realizar la redacción y resolución de los ejercicios del capítulo 10 de “Principios de Circuitos Eléctricos” de Floyd 
+Al realizar la redacción y resolución de los ejercicios del capítulo 10 de “Principios de Circuitos Eléctricos” de Floyd  se reconocio los ceonceptos de magnetismo y electromagnetismo tanto su historia como sus formulas correspondientes y a su vez se logro identificar algunos dispositivos que funcionan con electrmagnetismo y por ultimo se analizo sobre la induciion electromagnetica y la histeresis magnetica con sus respectivas formulas.
 
 
 # 6. BIBLIOGRAFIA
